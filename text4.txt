@@ -1,0 +1,1 @@
+Text4.txt dosyamızı ilk defa oluşturduk.
